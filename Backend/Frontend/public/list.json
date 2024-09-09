@@ -1,0 +1,483 @@
+[
+    {
+        "_id":"1",
+        "name":"Story Book",
+        "title":"Story of Japan",
+        "price":0,
+        "category":"paid",
+        "image":"https://img.freepik.com/free-vector/flat-vertical-poster-template-golden-week-celebration_23-2150200060.jpg?semt=ais_hybrid"
+    },
+    {
+        "_id":"2",
+        "name":"Horror Book",
+        "title":"Horror of the Jungel",
+        "price":45,
+        "category":"paid",
+        "image":"https://img.freepik.com/premium-photo/horror-book-cover-background_1004054-13467.jpg?semt=ais_hybrid"
+    },
+    {
+        "_id": "3",
+        "name": "Adventure Book",
+        "title": "Adventures in Wonderland",
+        "price": 30,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-fantasy-nature-magic-tree-by-moonlight-illustration_1284-37445.jpg"
+    },
+    {
+        "_id": "4",
+        "name": "Science Fiction Book",
+        "title": "Journey to Mars",
+        "price": 50,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-space-book_23-2149340712.jpg"
+    },
+    {
+        "_id": "5",
+        "name": "Mystery Book",
+        "title": "The Hidden Secret",
+        "price": 25,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-mystery-book-illustration_23-2149341042.jpg"
+    },
+    {
+        "_id": "6",
+        "name": "Fantasy Book",
+        "title": "Dragons and Fairies",
+        "price": 35,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/fantasy-book-illustration_23-2149340714.jpg"
+    },
+    {
+        "_id": "7",
+        "name": "Biography Book",
+        "title": "Life of a Genius",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-biography-book-illustration_23-2149340713.jpg"
+    },
+    {
+        "_id": "8",
+        "name": "Self-help Book",
+        "title": "Unlock Your Potential",
+        "price": 15,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/self-help-book-flat-design_23-2149341038.jpg"
+    },
+    {
+        "_id": "9",
+        "name": "Cooking Book",
+        "title": "Delicious Recipes",
+        "price": 40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/cooking-book-illustration_23-2149341036.jpg"
+    },
+    {
+        "_id": "10",
+        "name": "Travel Book",
+        "title": "Around the World",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/travel-book-flat-design_23-2149341037.jpg"
+    },
+    {
+        "_id": "11",
+        "name": "Poetry Book",
+        "title": "Whispers of the Soul",
+        "price": 10,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/poetry-book-hand-drawn-illustration_23-2149340715.jpg"
+    },
+    {
+        "_id": "12",
+        "name": "Children's Book",
+        "title": "Magic Tales",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-children-s-book_23-2149341039.jpg"
+    },
+    {
+        "_id": "13",
+        "name": "Historical Book",
+        "title": "The Ancient Civilizations",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/historical-book-hand-drawn-illustration_23-2149341041.jpg"
+    },
+    {
+        "_id": "14",
+        "name": "Romance Book",
+        "title": "Love Stories",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/romance-book-flat-design_23-2149340716.jpg"
+    },
+    {
+        "_id": "15",
+        "name": "Thriller Book",
+        "title": "Edge of Your Seat",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/thriller-book-hand-drawn-illustration_23-2149341040.jpg"
+    },
+    {
+        "_id": "16",
+        "name": "Comic Book",
+        "title": "Superhero Adventures",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/comic-book-flat-design_23-2149340717.jpg"
+    },
+    {
+        "_id": "17",
+        "name": "Art Book",
+        "title": "Masterpieces",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/art-book-flat-design_23-2149340718.jpg"
+    },
+    {
+        "_id": "18",
+        "name": "Philosophy Book",
+        "title": "Thoughts and Reflections",
+        "price": 25,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/philosophy-book-hand-drawn-illustration_23-2149340719.jpg"
+    },
+    {
+        "_id": "19",
+        "name": "Science Book",
+        "title": "Discoveries and Inventions",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/science-book-hand-drawn-illustration_23-2149340720.jpg"
+    },
+    {
+        "_id": "20",
+        "name": "Technology Book",
+        "title": "Future Innovations",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/technology-book-flat-design_23-2149341043.jpg"
+    },
+
+    {
+        "_id": "21",
+        "name": "Graphic Novel",
+        "title": "Epic Battles",
+        "price": 40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/graphic-novel-flat-design_23-2149341044.jpg"
+    },
+    {
+        "_id": "22",
+        "name": "Adventure Book",
+        "title": "Mysteries of the Deep",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/adventure-book-illustration_23-2149340721.jpg"
+    },
+    {
+        "_id": "23",
+        "name": "Cookbook",
+        "title": "Gourmet Delights",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/cookbook-illustration_23-2149340722.jpg"
+    },
+    {
+        "_id": "24",
+        "name": "Biography",
+        "title": "Legends of History",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/biography-book-illustration_23-2149340723.jpg"
+    },
+    {
+        "_id": "25",
+        "name": "Self-help Book",
+        "title": "Path to Success",
+        "price": 15,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/self-help-book-illustration_23-2149340724.jpg"
+    },
+    {
+        "_id": "26",
+        "name": "Children's Book",
+        "title": "Whimsical Stories",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/children-book-flat-design_23-2149340725.jpg"
+    },
+    {
+        "_id": "27",
+        "name": "Fantasy Book",
+        "title": "Wizards and Wonders",
+        "price": 40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/fantasy-book-flat-design_23-2149340726.jpg"
+    },
+    {
+        "_id": "28",
+        "name": "Historical Book",
+        "title": "Empires Rise and Fall",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/historical-book-illustration_23-2149340727.jpg"
+    },
+    {
+        "_id": "29",
+        "name": "Romance Novel",
+        "title": "Passionate Hearts",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/romance-novel-illustration_23-2149340728.jpg"
+    },
+    {
+        "_id": "30",
+        "name": "Thriller",
+        "title": "Dark Secrets",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/thriller-book-illustration_23-2149340729.jpg"
+    },
+    {
+        "_id": "31",
+        "name": "Art Book",
+        "title": "Artistic Visions",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/art-book-illustration_23-2149340730.jpg"
+    },
+    {
+        "_id": "32",
+        "name": "Philosophy",
+        "title": "Deep Thoughts",
+        "price": 25,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/philosophy-book-illustration_23-2149340731.jpg"
+    },
+    {
+        "_id": "33",
+        "name": "Science Fiction",
+        "title": "Galactic Adventures",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/science-fiction-book-illustration_23-2149340732.jpg"
+    },
+    {
+        "_id": "34",
+        "name": "Travelogue",
+        "title": "Exploring the Wonders",
+        "price": 40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/travelogue-book-illustration_23-2149340733.jpg"
+    },
+    {
+        "_id": "35",
+        "name": "Poetry Collection",
+        "title": "Verses of Beauty",
+        "price": 10,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/poetry-collection-illustration_23-2149340734.jpg"
+    },
+    {
+        "_id": "36",
+        "name": "Memoir",
+        "title": "Reflections of Life",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/memoir-book-illustration_23-2149340735.jpg"
+    },
+    {
+        "_id": "37",
+        "name": "Graphic Novel",
+        "title": "Superhero Legends",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/graphic-novel-cover_23-2149340736.jpg"
+    },
+    {
+        "_id": "38",
+        "name": "Cookbook",
+        "title": "Mastering Flavors",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/cookbook-illustration_23-2149340737.jpg"
+    },
+    {
+        "_id": "39",
+        "name": "Biography",
+        "title": "Tales of Triumph",
+        "price": 25,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/biography-book-illustration_23-2149340738.jpg"
+    },
+    {
+        "_id": "40",
+        "name": "Self-help",
+        "title": "Achieving Goals",
+        "price": 15,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/self-help-illustration_23-2149340739.jpg"
+    },
+    {
+        "_id": "41",
+        "name": "Children's Book",
+        "title": "Adventure Time",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/children-book-cover_23-2149340740.jpg"
+    },
+    {
+        "_id": "42",
+        "name": "Fantasy",
+        "title": "Mystical Realms",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/fantasy-illustration_23-2149340741.jpg"
+    },
+    {
+        "_id": "43",
+        "name": "Historical",
+        "title": "Forgotten Legends",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/historical-illustration_23-2149340742.jpg"
+    },
+    {
+        "_id": "44",
+        "name": "Romance",
+        "title": "Heartfelt Moments",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/romance-illustration_23-2149340743.jpg"
+    },
+    {
+        "_id": "45",
+        "name": "Thriller",
+        "title": "Chilling Suspense",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/thriller-illustration_23-2149340744.jpg"
+    },
+    {
+        "_id": "46",
+        "name": "Art",
+        "title": "Artistic Wonders",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/art-book-illustration_23-2149340745.jpg"
+    },
+    {
+        "_id": "47",
+        "name": "Philosophy",
+        "title": "Wisdom of Ages",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/philosophy-book-cover_23-2149340746.jpg"
+    },
+    {
+        "_id": "48",
+        "name": "Science Fiction",
+        "title": "Techno Dreams",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/science-fiction-illustration_23-2149340747.jpg"
+    },
+    {
+        "_id": "49",
+        "name": "Travel",
+        "title": "Journeys of Discovery",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/travel-illustration_23-2149340748.jpg"
+    },
+    {
+        "_id": "50",
+        "name": "Poetry",
+        "title": "Soulful Verses",
+        "price": 10,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/poetry-illustration_23-2149340749.jpg"
+    },
+    {
+        "_id": "51",
+        "name": "Memoir",
+        "title": "Echoes of the Past",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/memoir-illustration_23-2149340750.jpg"
+    },
+    {
+        "_id": "52",
+        "name": "Graphic Novel",
+        "title": "Heroic Journeys",
+        "price": 45,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/graphic-novel-cover_23-2149340751.jpg"
+    },
+    {
+        "_id": "53",
+        "name": "Cookbook",
+        "title": "Savor the Flavors",
+        "price": 40,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/cookbook-illustration_23-2149340752.jpg"
+    },
+    {
+        "_id": "54",
+        "name": "Biography",
+        "title": "Stories of Greatness",
+        "price": 20,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/biography-book-cover_23-2149340753.jpg"
+    },
+    {
+        "_id": "55",
+        "name": "Self-help",
+        "title": "Master Your Life",
+        "price": 15,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/self-help-illustration_23-2149340754.jpg"
+    },
+    {
+        "_id": "56",
+        "name": "Children's Book",
+        "title": "Imaginative Tales",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/children-book-cover_23-2149340755.jpg"
+    },
+    {
+        "_id": "57",
+        "name": "Fantasy",
+        "title": "Legends of Magic",
+        "price": 35,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/fantasy-book-cover_23-2149340756.jpg"
+    },
+    {
+        "_id": "58",
+        "name": "Historical",
+        "title": "Past Lives",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/historical-book-cover_23-2149340757.jpg"
+    },
+    {
+        "_id": "59",
+        "name": "Romance",
+        "title": "Love Unveiled",
+        "price": 30,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/romance-book-cover_23-2149340758.jpg"
+    },
+    {
+        "_id": "60",
+        "name": "Thriller",
+        "title": "Secrets Unveiled",
+        "price": 50,
+        "category": "paid",
+        "image": "https://img.freepik.com/free-vector/thriller-book-cover_23-2149340759.jpg"
+    }
+]
